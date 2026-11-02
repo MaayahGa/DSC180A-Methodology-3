@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Gabriel Maayah
-gmaayah@ucsd.edu
+Gabriel Maayah and Tristan Leo
